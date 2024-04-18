@@ -12,12 +12,12 @@ const Footer = () => {
         <p>WeekEnd Style!</p>
       </div>
       <ul className="footer-links">
-      <div>Email: example@example.com</div>
+      <div>Email: weekendstyle@gmail.com</div>
       <div>Phone: +91 9876543210</div>
       </ul>
       <div className="footer-social-icons">
         <div className="footer-icons-container">
-            <img src={instagram_icon} alt="" /><p>todaystrends1412</p>
+            <img src={instagram_icon} alt="" /><p>weekendstyle1412</p>
         </div>
         <div className="footer-icons-container">
             <img src={whatsapp_icon} alt="" /><p>9876543210</p>

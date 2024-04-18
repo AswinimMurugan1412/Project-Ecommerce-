@@ -10,7 +10,7 @@ const Hero = () => {
     <img src={hero_image} alt="hero" />
   </div>
       <div className="hero-right">
-        <h1> Be Fashion</h1>
+        <h1> Be Fashion.</h1>
         <div>
           <div className="hero-right-text">
           <p><h4>Surprise Gifts </h4></p>
