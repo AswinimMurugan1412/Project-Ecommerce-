@@ -210,6 +210,7 @@ app.post('/getcart', fetchuser, async (req, res) => {
   console.log("Get Cart");
   let userData = await Users.findOne({_id:req.user.id});
   res.json(userData.cartData);
+
   })
 
 
