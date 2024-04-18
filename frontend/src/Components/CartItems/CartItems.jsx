@@ -36,9 +36,6 @@ const CartItems = () => {
         }
         return null;
       })}
-      
-
-
       <div className="cartitems-down">
         <div className="cartitems-total">
         <h1>Cash On Deliver Only</h1><hr/>
